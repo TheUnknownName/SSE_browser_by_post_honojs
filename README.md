@@ -60,12 +60,15 @@ Open the SSE client HTML file in a browser. It will listen to messages from the 
 
 ## 📂 Project Structure
 ```
-📦 project-folder
- ┣ 📜 index.ts           # Main server file with Hono & SSE implementation
- ┣ 📜 package.json       # Node.js dependencies & scripts
- ┣ 📜 README.md          # Project documentation
- ┣ 📜 public/            # Contains HTML files for client-side interaction
- ┗ 📜 node_modules/      # Dependencies (auto-generated)
+Directory structure:
+└── theunknownname-sse_browser_by_post_honojs/
+    ├── README.md
+    ├── LICENSE
+    ├── package.json
+    ├── tsconfig.json
+    └── src/
+        ├── index.js
+        └── index.ts
 ```
 
 ---
