@@ -22,8 +22,8 @@ Ensure you have the following installed:
 
 ### 2️⃣ Clone the Repository
 ```sh
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/TheUnknownName/SSE_browser_by_post_honojs.git
+cd https://github.com/TheUnknownName/SSE_browser_by_post_honojs.git
 ```
 
 ### 3️⃣ Install Dependencies
